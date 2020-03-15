@@ -202,11 +202,15 @@ body {
     margin-top: 20px;
 }
 
-.Rectangle4 p.price-details {
+.Rectangle4 p#price-details {
     font-size: 30px;
     font-weight: bold;
 
 }
+/* 
+.price-details{
+    color: purple;
+} */
 
 .Rectangle5 {
 
